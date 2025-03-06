@@ -16,7 +16,7 @@ I'm Kevin, a Data Analyst specializing in SQL, Python and Tableau from 🇺🇸 
 
 ### 📚 Projects 📚
 
-- Check out my Projects Repo [here](input url here).
+➡️ ➡️ Check out my Portfolio [here](https://github.com/kevin-rupe/Portfolio).
 - Summary of projects include:
   - Data Acquisition (SQL)
   - Data Cleaning (Python)
