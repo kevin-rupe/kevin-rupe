@@ -17,23 +17,6 @@ I'm Kevin, a Data Analyst specializing in SQL, Python and Tableau from 🇺🇸 
 ### 📚 Projects 📚
 
 ➡️ ➡️ Check out my Portfolio [here](https://github.com/kevin-rupe/Portfolio).
-- Summary of projects include:
-  - Data Acquisition (SQL)
-  - Data Cleaning (Python)
-  - Exploratory Data Analysis (Python)
-  - Predictive Modeling (Python)
-    - Multiple Linear Regression
-    - Multiple Logistic Regression
-  - Data Mining (Python)
-    - K-Nearest Neighbor (KNN) Classification Analysis
-    - Decision Tree Classification Analysis
-    - K-Means Clustering Analysis
-    - Principal Component Analysis (PCA)
-    - Market Basket Analysis (MBA)
-  - Dashboard Development (SQL, Tableau)
-  - Machine Learning (Python)
-    - Time Series Analysis
-    - Sentiment Analysis using Recurrent Neural Networks (RNN), specifically Long Short-Term Memory (LSTM) RNN.  
 
 
 ### ⚒️ Tools ⚒️
