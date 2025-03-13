@@ -33,3 +33,4 @@ I'm Kevin, a Data Analyst specializing in SQL, Python and Tableau from 🇺🇸 
 
 - kevin.rupe78@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/kevin-rupe/)
+- [Kaggle](https://www.kaggle.com/kevinrupe)
