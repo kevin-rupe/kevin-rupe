@@ -10,7 +10,6 @@ I'm Kevin, a Data Analyst specializing in SQL, Python and Tableau from 🇺🇸 
 - 🧠 I’m currently advancing my SQL and Python skills!
 - 🙂 I’m looking for help with landing my first official job in the wonderful wide world of Data Analytics.
 - 💬 Ask me about what I do for fun... hint: 🛻🏕️🏞️🥾
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I have always LOVED numbers. My favorite number is ❾.
 
 
